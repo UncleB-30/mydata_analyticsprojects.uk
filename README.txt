@@ -1,27 +1,75 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+FlexTrade App Optimization Project
 
+Project Title
+Enhancing E-Commerce Performance through Data-Driven UX Optimization
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+PROJECT SUMMARY
+This project analyzes user behavior within the FlexTrade e-commerce app to identify issues affecting user engagement and sales performance. Using data analytics, I provided actionable insights that led to significant improvements in app usability, customer satisfaction, and conversion rates.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+BUSINESS PROBLEM
+Despite high download and usage rates, FlexTrade experienced:
 
-(* = not included)
+High Bounce Rate: 45% of users left after minimal interaction
 
-AJ
-aj@lkn.io | @ajlkn
+Cart Abandonment: 30% of users exited with items still in cart
 
+Low Average Order Value: Below industry benchmarks
 
-Credits:
+Intense Competition: In a saturated online shopping market
 
-	Demo Images:
-		Unsplash (unsplash.com)
+DATA SOURCE
+App Analytics (Bounce rate, session time, funnel drop-offs)
+
+User Behavior Logs (Page views, time spent, cart interactions)
+
+User Feedback (Reviews, complaints, suggestions)
+
+Transaction Records (Frequency and spend per user)
+
+KEY FINDINGS
+45% bounce rate due to slow loading and complex navigation
+
+30% cart abandonment rate linked to a buggy checkout process
+
+90+ user feedback entries indicated poor user experience
+
+Users who spent over 10 minutes in the app were 3x more likely to convert
+
+RECOMMENDATION
+Fix checkout bugs and performance lags
+
+Streamline checkout to reduce steps
+
+Add personalized product suggestions
+
+Implement upsell and cross-sell strategies
+
+Trigger incentives based on session time and cart value
+
+RESULT AFTER IMPLEMENTATION
+Following the implementation of my data-driven recommendations, the bounce rate dropped significantly from 45% to under 30%, indicating improved user engagement and retention.
+Cart abandonment rate decreased from 30% to below 20%, reflecting a more streamlined and user-friendly checkout process.
+Conversion rate increased by 18%, demonstrating the effectiveness of personalised recommendations and session-based incentives in turning visits into purchases
+These insights and recommendations enabled the company to optimise user flow, improve app satisfaction, and ultimately increase revenue per user session.
+This project clearly demonstrates how data analytics can transform user experience, streamline operations, and increase profitability in the competitive e-commerce landscape.
+It also showcases my ability to:
+•   Conduct deep-dive analytical investigations
+•   Translate data into actionable business strategies
+Communicate insights to both technical and non-technical stakeholders
+
+OUTCOMES
+Improved user flow and reduced exit rates
+
+Increased customer satisfaction and loyalty
+
+Higher revenue per user session
+
+TOOLS AND SKILLS USED
+Excel for data cleaning and transformation
+
+Excel for dashboarding and reporting
+
+Data-Driven Recommendations
 
 	Icons:
 		Font Awesome (fontawesome.io)
